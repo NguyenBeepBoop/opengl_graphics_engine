@@ -1,0 +1,8 @@
+*bin*
+*build*
+
+.vscode
+.idea
+README.md
+JUSTIFICATION.md
+lib
